@@ -1,6 +1,6 @@
 Название: 3D Modeling Course (работа с сетками).
 Роль: верстальщик. 
-Инструменты: Chrome Devtools, Visual Studio Code, Bootstrap. 
+Инструменты: Chrome Devtools, Visual Studio Code, JS, Bootstrap. 
 
 Для того, чтобы просмотреть проект с ПК, нужно выполнить следующие шаги:
   1. Найти нужный проект через окошко Search or jump to в левом верхнем углу;
